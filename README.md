@@ -1,22 +1,34 @@
-### Olá Devs! Eu sou a Amanda Vieira, sejam bem-vindos! 👋
-<div>
-  <img align="center" alt="Poke Friends" style="max-width:25%;" src="https://cdn-images-1.medium.com/max/800/1*g2tj9sjM54AenJqb2nE2xA.gif" />
+
+<div style="display: inline_block">
+  <h3>Olá Devs! Eu sou a Amanda Vieira, sejam bem-vindos! 👋</h3>
+  <img  align="right" alt="Poke Friends" height="150em" width="250em" src="https://cdn-images-1.medium.com/max/800/1*g2tj9sjM54AenJqb2nE2xA.gif" /> 
+  <br/>
 </div>
-<!--
-**vieiramanda/vieiramanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-
-- 🔭 Desenvolvedora Front-End
-- 🌱 Estudando JavaScript/ReactJS
-- 😄 Pronouns: ela/dela
-
-
+<div>
+  <ul class="none">
+    <li>👩‍💻 Desenvolvedora Front-End</li>
+    <li>🛠️ Estudando JavaScript/ReactJS</li>
+    <li>♀️   Pronomes: ela/dela</li>
+  </ul>
+</div>
+<br/>
+<br/>
 
 <div>
   <a href="https://github.com/vieiramanda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vieiramanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiramanda&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vieiramanda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiramanda&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
+  
 </div>
 
   ##
