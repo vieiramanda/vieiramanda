@@ -1,15 +1,16 @@
 
 <div style="display: inline_block">
-  <h3>Olá Devs! Eu sou a Amanda Vieira, sejam bem-vindos! 👋</h3>
+  <h3>Heey Devs! I'm Amanda Vieira, welcome to my place! 👋</h3>
   <img  align="right" alt="Poke Friends" height="150em" width="250em" src="https://cdn-images-1.medium.com/max/800/1*g2tj9sjM54AenJqb2nE2xA.gif" /> 
   <br/>
 </div>
 
 <div>
-  <ul class="none">
-    <li>👩‍💻 Desenvolvedora Front-End</li>
-    <li>🛠️ Estudando JavaScript/ReactJS</li>
-    <li>♀️   Pronomes: ela/dela</li>
+  <ul class="none">    
+    <li>♀️ She/Her</li>
+    <li>👩‍💻 Web Developer </li>
+    <li>🛠️ Learning NodeJS</li>
+    <li>
   </ul>
 </div>
 <br/>
