@@ -9,8 +9,8 @@
   <ul class="none">    
     <li>♀️ She/Her</li>
     <li>👩‍💻 Web Developer </li>
-    <li>🛠️ Learning NodeJS</li>
-    <li>
+    <li>🛠️ NodeJS, Sequelize, Express</li>
+    <li>🛠️ Vue3JS</li>
   </ul>
 </div>
 <br/>
